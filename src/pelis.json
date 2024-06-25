@@ -1,1 +1,17 @@
-[]
+[
+  {
+    "id": 1,
+    "title": "Bastardos sin gloria",
+    "tags": ["Accion", "Belico"]
+  },
+  {
+    "id": 2,
+    "title": "Django Sin Cadenas",
+    "tags": ["Western", "Dramatico"]
+  },
+  {
+    "id": 3,
+    "title": "Revenant el Renacido",
+    "tags": ["Basados en Hechos Reales, Violento"]
+  }
+]
